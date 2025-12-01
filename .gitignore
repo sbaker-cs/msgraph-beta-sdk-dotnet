@@ -36,3 +36,5 @@ UpgradeLog*.htm
 .idea/
 
 *.log
+
+custom-sdk/*
